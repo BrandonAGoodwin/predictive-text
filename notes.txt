@@ -1,0 +1,26 @@
+f e 
+	m u r
+	a t u r e
+	
+y e l l o w
+
+t e l 
+	  e p 
+		  a t h 
+				i c
+		  o r t
+		  h o n e
+	  o p h a s e
+o m n i 
+		p o t e n t
+		c i e n t 
+
+Remove popularity on a removed word
+Test value when user doesn't input anything
+An empty string CANNOT be a word
+	Can't remove an empty string (Issue, c
+The empty node at the beginning is counted in the size of the tree so the tree can't be smaller than size 1
+insert still goes through the code if the word already exists
+	(Could make helper method that runs the code and insert checks if the tree already contains the word)
+Contains returns false if the word is in the tree but it's last node doesn't have wordEnd set to true
+		
