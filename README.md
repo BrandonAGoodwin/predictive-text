@@ -1,5 +1,3 @@
-https://git.cs.bham.ac.uk/bxg796/SWW-exercises/tree/predictive-text/predictive-text-submission
-
 # Solution
 
 ### Consistencies / Decisions Made
